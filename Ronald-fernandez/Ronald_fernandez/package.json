@@ -1,0 +1,14 @@
+{
+  "name": "taller-vargas-carlos",
+  "version": "1.0.0",
+  "description": "Taller práctico con menú interactivo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Carlos Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
